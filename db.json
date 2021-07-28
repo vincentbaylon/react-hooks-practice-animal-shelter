@@ -205,7 +205,7 @@
       "age": 7,
       "weight": 6,
       "name": "Cuddles",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "f2874129-1524-4423-b7bd-2654a3a4147e",
